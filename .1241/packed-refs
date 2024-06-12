@@ -1,8 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-d6494798be11b91aaf9c776a2f4e02d50f7dfe45 refs/remotes/origin/chore/pakage-json_dev-vite-host
-cca05f4cbb0de1bde867a4cdeddc90fe234db733 refs/remotes/origin/feat/friend
-393e913232a00abc53ccdcc6e530c5cdb84fff5e refs/remotes/origin/feat/profile-edit
-8f2810936f6186d8226f62299120c1a2fa22c053 refs/remotes/origin/feat/search
-452f94334dbf98aa18d22aec7e48d4e588735718 refs/remotes/origin/main
-ceaff3aa320016d3055c9fc97c013a6d6bf3df6b refs/remotes/origin/test/payment
-888915f1b9aea75f29605cf47a1fc32ce7069f34 refs/remotes/origin/test/storybook
