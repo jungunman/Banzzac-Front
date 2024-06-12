@@ -1,0 +1,22 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Banzzac-Developers/banzzac_web.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "feat/login"]
+	vscode-merge-base = origin/main
+[branch "develop/feat/matching-condition"]
+	vscode-merge-base = origin/main
+[branch "develop/feat/matchings"]
+	vscode-merge-base = origin/main
+[gui]
+	wmstate = normal
+	geometry = 824x435+130+130 179 196
